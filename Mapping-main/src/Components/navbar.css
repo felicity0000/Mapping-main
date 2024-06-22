@@ -1,0 +1,11 @@
+.dock-demo .dock-window {
+    width: 50%;
+    height: 450px;
+    position: bottom;
+    /* background-image: url('https://primefaces.org/cdn/primereact/images/dock/window.jpg'); */
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
+/* .dock-demo .p-dock {
+    z-index: 1000;
+} */
